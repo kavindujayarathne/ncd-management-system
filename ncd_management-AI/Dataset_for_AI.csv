@@ -1,0 +1,201 @@
+Age,Gender,Hypertension,Hyperlipidemia,Diabetes,Smoking,NCD_Risk,Action
+64,Female,No,Yes,No,No,Type two Diabetes Mellitus,Medical Clinic
+67,Male,Yes,No,No,No,Hypertensive Heart Disease,Specialize unit
+73,Male,No,No,No,Yes,Stroke,Dental Clinic
+20,Male,No,No,No,Yes,Chronic Kidney Disease,HLC
+23,Female,No,No,No,No,None,HLC
+79,Female,No,Yes,Yes,No,"Stroke, Hypertensive Heart Disease",Medical Clinic
+23,Male,No,No,No,Yes,Chronic Obstructive Pulmonary Disease,Specialize unit
+59,Female,Yes,No,No,Yes,Chronic Kidney Disease,Dental Clinic
+29,Male,Yes,No,No,Yes,Coronary Artery Disease,HLC
+39,Male,No,No,Yes,Yes,Lung Cancer,HLC
+41,Male,Yes,No,No,No,Hypertensive Heart Disease,Medical Clinic
+70,Male,Yes,Yes,Yes,No,"Coronary Artery Disease, Peripheral Arterial Disease, Type two Diabetes Mellitus",Specialize unit
+56,Male,No,No,Yes,No,Chronic Obstructive Pulmonary Disease,Dental Clinic
+43,Female,Yes,No,No,No,Chronic Kidney Disease,HLC
+26,Male,Yes,Yes,No,No,Peripheral Arterial Disease,HLC
+44,Female,No,Yes,No,Yes,"Lung Cancer, Chronic Obstructive Pulmonary Disease",Dental Clinic
+44,Male,Yes,No,No,No,Hypertensive Heart Disease,HLC
+32,Female,No,No,No,Yes,Stroke,HLC
+78,Female,Yes,No,No,No,Chronic Obstructive Pulmonary Disease,Specialize unit
+21,Female,No,No,No,No,None,Dental Clinic
+58,Female,Yes,No,No,No,Chronic Obstructive Pulmonary Disease,HLC
+59,Female,No,No,No,No,None,HLC
+43,Male,No,Yes,Yes,Yes,"Stroke, Type two Diabetes Mellitus",Medical Clinic
+66,Female,No,No,No,No,None,Specialize unit
+44,Female,Yes,Yes,No,No,"Hypertensive Heart Disease, Chronic Kidney Disease",Dental Clinic
+37,Female,No,No,No,No,None,HLC
+57,Female,No,No,No,No,None,HLC
+45,Male,No,No,No,No,None,HLC
+33,Female,Yes,No,No,No,Coronary Artery Disease,Medical Clinic
+28,Female,No,No,No,Yes,Chronic Kidney Disease,Specialize unit
+29,Male,No,No,No,No,None,Dental Clinic
+40,Male,No,No,No,Yes,Stroke,HLC
+71,Female,No,Yes,No,No,Chronic Obstructive Pulmonary Disease,HLC
+36,Male,No,Yes,No,No,Coronary Artery Disease,HLC
+71,Male,Yes,Yes,No,No,"Heart Failure, Chronic Kidney Disease",Medical Clinic
+25,Male,No,No,No,No,None,Specialize unit
+35,Male,No,No,Yes,Yes,Chronic Obstructive Pulmonary Disease,Dental Clinic
+67,Female,Yes,No,Yes,No,"Coronary Artery Disease, Type two Diabetes Mellitus",HLC
+20,Female,Yes,No,No,No,Stroke,HLC
+38,Male,Yes,Yes,No,No,Hypertensive Heart Disease,HLC
+55,Male,Yes,No,Yes,No,"Type two Diabetes Mellitus, Chronic Obstructive Pulmonary Disease",Dental Clinic
+44,Female,No,No,Yes,No,Chronic Obstructive Pulmonary Disease,Medical Clinic
+69,Male,No,No,No,Yes,Peripheral Arterial Disease,Specialize unit
+71,Female,No,No,No,No,None,Dental Clinic
+49,Female,No,No,No,No,None,HLC
+39,Female,Yes,No,No,No,Coronary Artery Disease,HLC
+39,Female,No,No,No,Yes,Type two Diabetes Mellitus,Medical Clinic
+34,Male,Yes,No,No,Yes,"Coronary Artery Disease, Hypertensive Heart Disease",Specialize unit
+59,Male,No,Yes,No,No,Heart Failure,Dental Clinic
+52,Male,No,No,No,No,None,HLC
+21,Female,No,No,No,No,None,HLC
+29,Male,No,No,No,Yes,Chronic Kidney Disease,Specialize unit
+77,Female,No,Yes,No,No,Type two Diabetes Mellitus,Dental Clinic
+52,Female,No,No,No,No,None,HLC
+51,Female,No,No,Yes,No,Heart Failure,HLC
+30,Male,No,No,No,No,None,Medical Clinic
+72,Female,No,No,No,No,None,Specialize unit
+43,Male,No,No,Yes,No,Chronic Kidney Disease,Dental Clinic
+55,Male,Yes,No,No,Yes,Hypertensive Heart Disease,Dental Clinic
+31,Female,Yes,Yes,No,Yes,Lung Cancer,Medical Clinic
+70,Male,No,No,No,No,None,Specialize unit
+75,Female,Yes,No,No,No,Chronic Kidney Disease,Dental Clinic
+48,Female,Yes,No,No,No,Peripheral Arterial Disease,Medical Clinic
+54,Male,Yes,Yes,No,No,Hypertensive Heart Disease,Specialize unit
+20,Male,No,Yes,No,Yes,"Coronary Artery Disease, Type two Diabetes Mellitus",Dental Clinic
+20,Female,No,Yes,No,Yes,Peripheral Arterial Disease,HLC
+56,Male,No,No,Yes,No,Chronic Kidney Disease,HLC
+73,Female,No,No,No,Yes,Chronic Kidney Disease,HLC
+25,Male,No,No,Yes,No,Chronic Kidney Disease,Medical Clinic
+58,Female,Yes,No,No,No,Hypertensive Heart Disease,Specialize unit
+60,Male,Yes,No,No,Yes,Heart Failure,Dental Clinic
+72,Female,No,Yes,Yes,No,"Peripheral Arterial Disease, Hypertensive Heart Disease",HLC
+37,Male,No,No,No,No,None,HLC
+35,Female,No,No,Yes,No,Hypertensive Heart Disease,Specialize unit
+24,Male,No,No,No,No,None,Dental Clinic
+61,Male,No,No,Yes,Yes,Peripheral Arterial Disease,HLC
+62,Male,Yes,Yes,Yes,No,"Peripheral Arterial Disease, Chronic Obstructive Pulmonary Disease",HLC
+78,Female,No,No,No,No,None,Medical Clinic
+51,Male,Yes,No,No,No,Peripheral Arterial Disease,Specialize unit
+76,Female,No,No,Yes,No,Hypertensive Heart Disease,Medical Clinic
+21,Male,Yes,No,No,No,Peripheral Arterial Disease,Specialize unit
+21,Female,No,No,No,No,None,Dental Clinic
+59,Male,Yes,No,No,No,Chronic Obstructive Pulmonary Disease,Medical Clinic
+61,Male,No,No,No,No,None,Specialize unit
+77,Male,No,No,No,No,None,Dental Clinic
+55,Male,Yes,No,No,No,Stroke,Dental Clinic
+58,Male,No,Yes,No,No,Chronic Obstructive Pulmonary Disease,HLC
+75,Female,No,Yes,Yes,No,Hypertensive Heart Disease,HLC
+31,Male,No,No,No,No,None,Medical Clinic
+66,Male,No,Yes,No,Yes,"Hypertensive Heart Disease, Peripheral Arterial Disease",HLC
+38,Female,No,No,No,No,None,Specialize unit
+47,Male,No,No,No,No,None,Dental Clinic
+20,Male,No,No,No,No,None,HLC
+34,Male,No,No,Yes,Yes,"Coronary Artery Disease, Hypertensive Heart Disease",HLC
+55,Female,Yes,No,No,No,Chronic Obstructive Pulmonary Disease,Medical Clinic
+73,Male,No,No,No,No,None,Specialize unit
+32,Male,Yes,No,Yes,Yes,Peripheral Arterial Disease,Specialize unit
+77,Female,No,Yes,Yes,No,"Chronic Kidney Disease, Hypertensive Heart Disease",Dental Clinic
+62,Male,No,No,Yes,No,Chronic Kidney Disease,HLC
+40,Female,Yes,No,No,No,Coronary Artery Disease,HLC
+64,Female,No,Yes,No,No,Type two Diabetes Mellitus,Specialize unit
+67,Male,Yes,No,No,No,Hypertensive Heart Disease,Dental Clinic
+73,Male,No,No,No,Yes,Stroke,HLC
+20,Male,No,No,No,Yes,Chronic Kidney Disease,HLC
+23,Female,No,No,No,No,None,Medical Clinic
+79,Female,No,Yes,Yes,No,"Stroke, Hypertensive Heart Disease",Specialize unit
+23,Male,No,No,No,Yes,Chronic Obstructive Pulmonary Disease,Specialize unit
+59,Female,Yes,No,No,Yes,Chronic Kidney Disease,Dental Clinic
+29,Male,Yes,No,No,Yes,Coronary Artery Disease,HLC
+39,Male,No,No,Yes,Yes,Lung Cancer,HLC
+41,Male,Yes,No,No,No,Hypertensive Heart Disease,Medical Clinic
+70,Male,Yes,Yes,Yes,No,"Coronary Artery Disease, Peripheral Arterial Disease, Type two Diabetes Mellitus",Specialize unit
+56,Male,No,No,Yes,No,Chronic Obstructive Pulmonary Disease,Medical Clinic
+43,Female,Yes,No,No,No,Chronic Kidney Disease,Specialize unit
+26,Male,Yes,Yes,No,No,Peripheral Arterial Disease,Dental Clinic
+44,Female,No,Yes,No,Yes,"Lung Cancer, Chronic Obstructive Pulmonary Disease",HLC
+44,Male,Yes,No,No,No,Hypertensive Heart Disease,HLC
+32,Female,No,No,No,Yes,Stroke,Medical Clinic
+78,Female,Yes,No,No,No,Chronic Obstructive Pulmonary Disease,Specialize unit
+21,Female,No,No,No,No,None,Dental Clinic
+58,Female,Yes,No,No,No,Chronic Obstructive Pulmonary Disease,HLC
+59,Female,No,No,No,No,None,HLC
+43,Male,No,Yes,Yes,Yes,"Stroke, Type two Diabetes Mellitus",Medical Clinic
+66,Female,No,No,No,No,None,Specialize unit
+44,Female,Yes,Yes,No,No,"Hypertensive Heart Disease, Chronic Kidney Disease",Dental Clinic
+37,Female,No,No,No,No,None,Medical Clinic
+57,Female,No,No,No,No,None,Specialize unit
+45,Male,No,No,No,No,None,Dental Clinic
+33,Female,Yes,No,No,No,Coronary Artery Disease,HLC
+28,Female,No,No,No,Yes,Chronic Kidney Disease,Medical Clinic
+29,Male,No,No,No,No,None,Specialize unit
+40,Male,No,No,No,Yes,Stroke,Dental Clinic
+71,Female,No,Yes,No,No,Chronic Obstructive Pulmonary Disease,Medical Clinic
+36,Male,No,Yes,No,No,Coronary Artery Disease,Specialize unit
+71,Male,Yes,Yes,No,No,"Heart Failure, Chronic Kidney Disease",Dental Clinic
+25,Male,No,No,No,No,None,HLC
+35,Male,No,No,Yes,Yes,Chronic Obstructive Pulmonary Disease,Medical Clinic
+67,Female,Yes,No,Yes,No,"Coronary Artery Disease, Type two Diabetes Mellitus",Specialize unit
+20,Female,Yes,No,No,No,Stroke,Dental Clinic
+38,Male,Yes,Yes,No,No,Hypertensive Heart Disease,Medical Clinic
+55,Male,Yes,No,Yes,No,"Type two Diabetes Mellitus, Chronic Obstructive Pulmonary Disease",Specialize unit
+44,Female,No,No,Yes,No,Chronic Obstructive Pulmonary Disease,Dental Clinic
+69,Male,No,No,No,Yes,Peripheral Arterial Disease,HLC
+71,Female,No,No,No,No,None,HLC
+49,Female,No,No,No,No,None,Medical Clinic
+39,Female,Yes,No,No,No,Coronary Artery Disease,Specialize unit
+39,Female,No,No,No,Yes,Type two Diabetes Mellitus,Dental Clinic
+34,Male,Yes,No,No,Yes,"Coronary Artery Disease, Hypertensive Heart Disease",HLC
+59,Male,No,Yes,No,No,Heart Failure,HLC
+52,Male,No,No,No,No,None,Medical Clinic
+21,Female,No,No,No,No,None,Specialize unit
+29,Male,No,No,No,Yes,Chronic Kidney Disease,Dental Clinic
+77,Female,No,Yes,No,No,Type two Diabetes Mellitus,HLC
+52,Female,No,No,No,No,None,HLC
+51,Female,No,No,Yes,No,Heart Failure,Dental Clinic
+30,Male,No,No,No,No,None,HLC
+72,Female,No,No,No,No,None,HLC
+43,Male,No,No,Yes,No,Chronic Kidney Disease,Dental Clinic
+55,Male,Yes,No,No,Yes,Hypertensive Heart Disease,Medical Clinic
+31,Female,Yes,Yes,No,Yes,Lung Cancer,Specialize unit
+70,Male,No,No,No,No,None,Medical Clinic
+75,Female,Yes,No,No,No,Chronic Kidney Disease,Specialize unit
+48,Female,Yes,No,No,No,Peripheral Arterial Disease,Dental Clinic
+54,Male,Yes,Yes,No,No,Hypertensive Heart Disease,Medical Clinic
+20,Male,No,Yes,No,Yes,"Coronary Artery Disease, Type two Diabetes Mellitus",Specialize unit
+20,Female,No,Yes,No,Yes,Peripheral Arterial Disease,Dental Clinic
+56,Male,No,No,Yes,No,Chronic Kidney Disease,HLC
+73,Female,No,No,No,Yes,Chronic Kidney Disease,Specialize unit
+25,Male,No,No,Yes,No,Chronic Kidney Disease,Dental Clinic
+58,Female,Yes,No,No,No,Hypertensive Heart Disease,Medical Clinic
+60,Male,Yes,No,No,Yes,Heart Failure,Specialize unit
+72,Female,No,Yes,Yes,No,"Peripheral Arterial Disease, Hypertensive Heart Disease",Dental Clinic
+37,Male,No,No,No,No,None,HLC
+35,Female,No,No,Yes,No,Hypertensive Heart Disease,Medical Clinic
+24,Male,No,No,No,No,None,Specialize unit
+61,Male,No,No,Yes,Yes,Peripheral Arterial Disease,Dental Clinic
+62,Male,Yes,Yes,Yes,No,"Peripheral Arterial Disease, Chronic Obstructive Pulmonary Disease",Medical Clinic
+78,Female,No,No,No,No,None,Specialize unit
+51,Male,Yes,No,No,No,Peripheral Arterial Disease,Dental Clinic
+76,Female,No,No,Yes,No,Hypertensive Heart Disease,HLC
+21,Male,Yes,No,No,No,Peripheral Arterial Disease,Dental Clinic
+21,Female,No,No,No,No,None,Medical Clinic
+59,Male,Yes,No,No,No,Chronic Obstructive Pulmonary Disease,Specialize unit
+61,Male,No,No,No,No,None,Specialize unit
+77,Male,No,No,No,No,None,Dental Clinic
+55,Male,Yes,No,No,No,Stroke,Medical Clinic
+58,Male,No,Yes,No,No,Chronic Obstructive Pulmonary Disease,Specialize unit
+75,Female,No,Yes,Yes,No,Hypertensive Heart Disease,Dental Clinic
+31,Male,No,No,No,No,None,HLC
+66,Male,No,Yes,No,Yes,"Hypertensive Heart Disease, Peripheral Arterial Disease",Medical Clinic
+38,Female,No,No,No,No,None,Specialize unit
+47,Male,No,No,No,No,None,Dental Clinic
+20,Male,No,No,No,No,None,HLC
+34,Male,No,No,Yes,Yes,"Coronary Artery Disease, Hypertensive Heart Disease",HLC
+55,Female,Yes,No,No,No,Chronic Obstructive Pulmonary Disease,Medical Clinic
+73,Male,No,No,No,No,None,Specialize unit
+32,Male,Yes,No,Yes,Yes,Peripheral Arterial Disease,Medical Clinic
+77,Female,No,Yes,Yes,No,"Chronic Kidney Disease, Hypertensive Heart Disease",Specialize unit
+62,Male,No,No,Yes,No,Chronic Kidney Disease,Dental Clinic
+40,Female,Yes,No,No,No,Coronary Artery Disease,Medical Clinic
